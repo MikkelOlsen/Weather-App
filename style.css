@@ -1,0 +1,28 @@
+.container-fluid {
+    margin: 10px;
+    box-sizing: content-box;
+}
+
+.icon-box i {
+    padding-top: 20px;
+    font-size: 80px;
+}
+
+.icon-box {
+    text-align: center;
+}
+
+p {
+    font-size: 30px;
+}
+
+.box {
+    background-color: whitesmoke;
+    color: grey;
+    border-radius: 10px;
+    border: 1px solid darkblue;
+}
+
+#city {
+    margin-top: 10px !important;
+}
